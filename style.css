@@ -62,12 +62,12 @@ h2, h3,h4{
     font-family: Idroid;
 }
 
-h2 p{
+h3 p{
     min-width: 300px;
     max-width: 1000px;
 }
 
-h2{
+h3{
     min-width: 300px;
     max-width: 1000px;
 }
