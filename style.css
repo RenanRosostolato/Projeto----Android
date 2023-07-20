@@ -23,14 +23,18 @@ header{
 
 main{
     background-color: white;
-    min-width: 300px;
+    min-width: 350px;
     max-width: 1000px;
-    padding: 10px;
+    padding: 20px;
     margin: auto;
     border-radius: 5px;
     box-shadow: 3px 3px 3px 1px rgba(0, 0, 0, 0.322);
     
 }
+
+main img {
+    width: 100%;
+} 
 
 .slogan{
     text-align: center;
@@ -38,6 +42,7 @@ main{
 }
 
 /*barra de navegação */
+
 nav>a{
     color: white;
     font-weight: bold;
@@ -62,15 +67,17 @@ h2, h3,h4{
     font-family: Idroid;
 }
 
-h3 p{
+h3>p{
     min-width: 300px;
     max-width: 1000px;
 }
+
 
 h3{
     min-width: 300px;
     max-width: 1000px;
 }
+
 strong{
     color: green;
 }
@@ -155,4 +162,6 @@ iframe{
 img.bugdroid{
     display: block;
     margin: auto;
+    max-width: 350px;
+
 }
