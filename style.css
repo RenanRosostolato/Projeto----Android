@@ -24,7 +24,7 @@ header{
 
 main{
     background-color: white;
-    min-width: 350px;
+    min-width: 35px;
     max-width: 1000px;
     padding: 20px;
     margin: auto;
@@ -120,21 +120,24 @@ h5{
 aside{
     background-color: #c5ebd6cb;
     border-radius: 10px 10px 10px 10px;
+    min-width: 320px;
     max-width: 1000px;
-    min-width: 350px;
     padding: 10px;
     border: -10px -10px 10px 10px;
+    
+    
+
 }
 
 
 aside>ul{
     list-style-type: '\2714\00A0\00A0';
     columns: 2;
-    min-width: 300px;
+    min-width: 350px;
     max-width: 1000px;
     list-style-position: inside;
     display: block;
-    padding: 10px;
+    padding: 10px 10px 10px 10px;
 }
 
 
