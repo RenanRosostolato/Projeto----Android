@@ -32,6 +32,13 @@ main{
     box-shadow: 3px 3px 3px 1px rgba(0, 0, 0, 0.322);
     
 }
+main  p{
+    margin: 15px 0px ;
+    text-align: justify;
+    text-indent: 30px;
+    font-size: 1em;
+    line-height: 1,5em;
+    }
 
 main img {
     width: 100%;
