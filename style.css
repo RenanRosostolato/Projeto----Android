@@ -24,7 +24,7 @@ header{
 
 main{
     background-color: white;
-    min-width: 35px;
+    min-width: 350px;
     max-width: 1000px;
     padding: 20px;
     margin: auto;
@@ -114,7 +114,18 @@ p>a{
 
 /*ultima parte do site*/
 
-h5{
+
+
+aside{
+    background-color: #c5ebd6cb;
+    border-radius: 10px 10px 10px 10px;
+    max-width: 1000px;
+    min-width: 350px;
+    padding: 10px;
+    border: -10px -10px 10px 10px;
+}
+
+aside>h5{
     background-color: #2fa866;
     height: 14px;
     max-width: 1000px;
@@ -124,27 +135,14 @@ h5{
     margin: -10px -10px 0px -10px;
 }
 
-aside{
-    background-color: #c5ebd6cb;
-    border-radius: 10px 10px 10px 10px;
-    min-width: 320px;
-    max-width: 1000px;
-    padding: 10px;
-    border: -10px -10px 10px 10px;
-    
-    
-
-}
-
-
-aside>ul{
+aside ul{
     list-style-type: '\2714\00A0\00A0';
     columns: 2;
-    min-width: 350px;
+    min-width: 300px;
     max-width: 1000px;
     list-style-position: inside;
     display: block;
-    padding: 10px 10px 10px 10px;
+    padding: 10px;
 }
 
 
