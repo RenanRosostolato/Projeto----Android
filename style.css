@@ -133,7 +133,7 @@ ul{
     min-width: 300px;
     max-width: 1000px;
     list-style-position: inside;
-}
+    display: block;
 
 
 
