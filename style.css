@@ -5,6 +5,7 @@
     src: url(fontes/idroid.otf); format:"Truetype"
 }
 
+
 body{
     font-family: sans-serif;
     background-color: #83e1ad;
@@ -120,9 +121,9 @@ aside{
     background-color: #c5ebd6cb;
     border-radius: 10px 10px 10px 10px;
     max-width: 1000px;
-    min-width: 370px;
-    border-left: 1px;
+    min-width: 350px;
     padding: 10px;
+    border: -10px -10px 10px 10px;
 }
 
 
