@@ -109,8 +109,8 @@ p>a{
 h5{
     background-color: #2fa866;
     height: 10px;
-    max-width: 795px;
-    min-width: 300px;
+    max-width: 1000px;
+    min-width: 350px;
     border-radius:  10px 10px 0px 0px;
     padding: 10px;
     margin: auto;
@@ -120,8 +120,8 @@ aside{
 
     background-color: #c5ebd6cb;
     border-radius: 10px 10px 10px 10px;
-    max-width: 795px;
-    min-width: 300px;
+    max-width: 1000px;
+    min-width: 350px;
     border-left: 1px;
     
 }
