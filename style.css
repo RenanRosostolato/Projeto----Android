@@ -159,6 +159,12 @@ footer{
     
 }
 
+footer a{
+    color: black;
+}
+footer a:hover{
+    background-color: aliceblue;
+}
 /*ultima parte do site*/
 
 
